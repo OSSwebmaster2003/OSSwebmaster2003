@@ -1,4 +1,4 @@
-# Hi there, I'm Abdusamad! 👋
+# Hi there, I'm Otabek! 👋
 
 🎯 **Frontend Developer & Tech Enthusiast**  
 🚀 Passionate about React, Vue, and TypeScript  
