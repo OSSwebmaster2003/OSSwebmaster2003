@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Abdusamad! 👋
 
-<!--
-**OSSwebmaster2003/OSSwebmaster2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Developer & Tech Enthusiast**  
+🚀 Passionate about React, Vue, and TypeScript  
+🌍 From Uzbekistan  
+💼 Open to collaboration and new opportunities!  
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools  
+- 💻 JavaScript, TypeScript, Vue.js, React.js  
+- 🎨 Tailwind CSS, SCSS  
+- ⚡ Pinia, Redux  
+- 🗄 dbGate, Firebase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+- 🛒 [Fresh Market](https://github.com/OSSwebmaster2003/fresh-market) - Online fresh food store  
+- 📝 [Note App](https://github.com/OSSwebmaster2003/note-app) - TypeScript-based note-taking app  
+- 🌍 [Andijon Qishloq Xo'jalik Instituti](https://github.com/OSSwebmaster2003/andijon_qishloq_xo'jalik_instituti) - University website  
+
+## 📫 Let's Connect!  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OSSwebmaster2003)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
